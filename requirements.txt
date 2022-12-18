@@ -3,6 +3,6 @@ numpy==1.18.5
 ipywidgets==8.0.2
 xgboost==1.6.2
 seaborn==0.12.0
-ipython==7.28.0
+ipython==7.33.0
 matplotlib==3.4.3
 scikit_learn==1.0
